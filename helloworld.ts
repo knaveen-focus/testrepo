@@ -1,1 +1,1 @@
-export type helloWorld;
+export type helloWorldnew;
